@@ -1,7 +1,7 @@
 /**
  * Created by parallel on 9/16/16.
  */
-public class CountingBits {
+public class CountingBits273 {
     /**
      * problem:
      * Given a non negative integer number num. For every numbers i in the range 0 ≤ i ≤
