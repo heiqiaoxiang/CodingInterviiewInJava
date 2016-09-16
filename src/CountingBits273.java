@@ -52,6 +52,7 @@ public class CountingBits273 {
         }
         return result;
     }
+//    print
     public static void printIntArray(int[] arr){
         for(int i=0;i<arr.length;i++){
             System.out.println(i+"\t"+arr[i]);
